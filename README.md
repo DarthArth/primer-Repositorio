@@ -1,2 +1,3 @@
 # primer-Repositorio
-Este es mi primer repositorio en el cual estaran disponibles mis practias
+Este repositorio es propiedad de: Dylan Arath Gonzalez Renteria
+En este repositorio estaran disponibles mis practias de la segunda unidad realizadas en PHP.
